@@ -1,0 +1,6 @@
+streamlit
+click
+requests
+beautifulsoup4
+lxml
+
